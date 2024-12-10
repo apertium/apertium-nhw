@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-nhw
+
+Name: apertium-nhw
+Description: Finite-state morphological transducer and constraint grammar for Western Huasteca Nahuatl
+Version: @VERSION@
+

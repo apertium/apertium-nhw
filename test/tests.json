@@ -1,0 +1,10 @@
+{
+    "analysis": {
+        "input": "analysis-input.txt",
+        "mode": "nhw-disam"
+    },
+    "generation": {
+        "input": "generation-input.txt",
+        "mode": "nhw-gener"
+    }
+}
